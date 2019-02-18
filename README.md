@@ -9,7 +9,13 @@ https://nodejs.org/en/
 ## Cài đặt node-modules:
 
 ```
-npm run build"
+npm install
+```
+
+## Chạy webpack:
+
+```
+npm run build
 ```
 
 ## Để chạy demo thực hiện lệnh sau:
