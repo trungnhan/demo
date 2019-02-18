@@ -12,7 +12,7 @@ class App extends React.Component {
     return (
       <div className='my-container'>
         <div className='block-banners'>
-          {this.data.map((item, index) => <BlockBanner key={index} banner={item}/>)}
+          {this.data.map((item, index) => <BlockBanner key={index} banner={item} />)}
         </div>
       </div>
     )

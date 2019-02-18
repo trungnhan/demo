@@ -57,7 +57,7 @@ module.exports = {
       filename: 'style.css',
     }),
     new CopyWebpackPlugin([
-      {from:'public/images/label',to: path.join(__dirname, '/dist/images/label')}
+      {from:'public/images/label', to: path.join(__dirname, '/dist/images/label')}
       // {from:'public/font',to: path.join(__dirname, '/dist/font')}
   ]),
   ]
