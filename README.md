@@ -1,10 +1,16 @@
-# demo
-Demo layout banner
+# Demo layout banner
 
-Cài đặt Node js
+## Cài đặt Node js
 
-Cài đặt node-modules: "npm install"
+```
+https://nodejs.org/en/
+```
 
-Chạy lệnh: "npm run build"
+## Cài đặt node-modules
 
-Cuối cùng: Chạy "http://localhost:3000" để chạy demo
+```
+npm run build"
+```
+
+### Cuối cùng: Chạy "http://localhost:3000" để chạy website
+
