@@ -3,7 +3,7 @@ Demo layout banner
 
 Cài đặt Node js
 
-Cài đặt node-modules: "npm init"
+Cài đặt node-modules: "npm install"
 
 Chạy lệnh: "npm run build"
 
